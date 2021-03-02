@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.headline {
+  height: 50px;
+  background-color: #fa2323;
+}
+
+.headtop {
+  height: 500px;
+  background-color: #f7a714;
+}
+
+main {
+  display: flex;
+}
+
+.blog-left {
+  width: 230px;
+  height: 1400px;
+  margin-left: auto;
+  background-color: #9ff59f;
+}
+
+.content {
+  width: 500px;
+  height: 1400px;
+  background-color: #73a313;
+}
+
+.blog-right {
+  width: 230px;
+  height: 1400px;
+  margin-right: auto;
+  background-color: #9ff59f;
+}
+
+.footer {
+  height: 100px;
+  background-color: #2d5dec;
+}
